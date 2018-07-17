@@ -1,2 +1,1 @@
-# SpringCRUD
-Basic function with Spring
+# SpringBootMySQL-CRUD
